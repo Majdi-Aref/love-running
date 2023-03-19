@@ -31,7 +31,6 @@ h1, h2 {
 #menu {
     font-size: 110;
     letter-spacing: 4px;
-
 }
 
 #menu, #logo {
@@ -47,7 +46,6 @@ h1, h2 {
 #menu a {
     text-decoration: none;
     color: inherit;
-
 }
 
 #menu a:hover {
@@ -97,7 +95,7 @@ h1, h2 {
 
 #cover-text {
     font-size: 130%;
-    font-family: Oswald;
+    font-family: Oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
 
